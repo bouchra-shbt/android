@@ -9,6 +9,8 @@ Démarez Easy PHP
 ##Fonctionnalités de L’application (présente plusieurs fonctionnalités tels que) :
 
 Aprés page Accueil:
+
+
 Le menu : qui offre un très grand choix à l’utilisateur composé des liens  suivants : Accueil, cabinet, service, RDV, contact, login. Contient une description du cabinet médical, son adresse, ses heure d’ouverture,  le numéro de  téléphone ainsi que notre email. Elle contient aussi une liste des plus importants services offerts par notre cabinet médical.
 
 Page Cabinet:
