@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_patient;datatype:int,name:nom_patient;datatype:string,name:prenom_patient;datatype:string,name:date_naiss_patient;datatype:date,name:lieu_naiss_patient;datatype:string,name:sexe_patient;datatype:string,name:adresse_patient;datatype:string,name:cp_patient;datatype:string,name:tel_pat;datatype:string,name:n_sc_patient;datatype:string,name:sf_patient;datatype:string,name:n_as;datatype:int,name:email_patient;datatype:string,name:motpasse_patient;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:id_rdvd;datatype:int,name:nom_rdvd;datatype:string,name:prenom_rdvd;datatype:string,name:tel_rdvd;datatype:string,name:email_rdvd;datatype:string,name:date_rdvd;datatype:date,name:heure_rdvd;datatype:string,name:mdp_rdvd;datatype:string" />
+</info>

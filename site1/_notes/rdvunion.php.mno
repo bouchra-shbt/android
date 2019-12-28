@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_requette" value="name:id_rdvd;datatype:int,name:nom_rdvd;datatype:string,name:prenom_rdvd;datatype:string,name:tel_rdvd;datatype:string,name:email_rdvd;datatype:string,name:date_rdvd;datatype:date,name:heure_rdvd;datatype:string,name:mdp_rdvd;datatype:string" />
+</info>

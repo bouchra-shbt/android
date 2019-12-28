@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rep" value="name:id_rep;datatype:int,name:reps;datatype:string,name:nom;datatype:string,name:prenom;datatype:string" />
+</info>

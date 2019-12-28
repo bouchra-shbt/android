@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_certificat" value="name:id_cer;datatype:int,name:date_debut;datatype:date,name:date_fin;datatype:date,name:cause;datatype:string,name:n_vi;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dose" value="name:id_ord;datatype:int,name:n_med;datatype:int,name:posologie;datatype:string,name:quantite;datatype:string" />
+</info>

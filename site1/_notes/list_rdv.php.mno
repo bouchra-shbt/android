@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rdv" value="name:n_rdv;datatype:int,name:dete_rdv;datatype:date,name:heure_rdv;datatype:time,name:obs;datatype:string,name:id_patient;datatype:int,name:id_medecin;datatype:int" />
+</info>

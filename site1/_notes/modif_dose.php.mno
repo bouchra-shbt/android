@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dose" value="name:id_ord;datatype:int,name:n_med;datatype:int,name:posologie;datatype:string,name:quantite;datatype:string" />
+	<infoitem key="UD_ord" value="name:id_ord;datatype:int,name:tc;datatype:string,name:n_vi;datatype:int" />
+	<infoitem key="UD_medecin" value="name:id_medecin;datatype:int,name:nom_medecin;datatype:string,name:prenom_medecin;datatype:string,name:adresse_medecin;datatype:string,name:cp_medecin;datatype:string,name:spec_medecin;datatype:string,name:tel_medecin;datatype:string,name:dip_medecin;datatype:string,name:email_medecin;datatype:string,name:motpasse_medecin;datatype:string" />
+	<infoitem key="UD_medicament" value="name:n_med;datatype:int,name:nom_med;datatype:string,name:nom_c_med;datatype:string,name:dosage;datatype:string,name:pays_f_med;datatype:string,name:generique;datatype:string,name:cond;datatype:string,name:frome;datatype:string,name:tarif_r;datatype:string" />
+</info>

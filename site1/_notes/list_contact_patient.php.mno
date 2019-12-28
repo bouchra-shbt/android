@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_contact" value="name:id_c;datatype:int,name:nom_c;datatype:string,name:prenom_c;datatype:string,name:email_c;datatype:string,name:tel_c;datatype:string,name:mssg_c;datatype:string" />
+	<infoitem key="UD_rep" value="name:id_rep;datatype:int,name:reps;datatype:string,name:nom;datatype:string,name:prenom;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id_patient;datatype:int,name:nom_patient;datatype:string,name:prenom_patient;datatype:string,name:date_naiss_patient;datatype:date,name:lieu_naiss_patient;datatype:string,name:sexe_patient;datatype:string,name:adresse_patient;datatype:string,name:cp_patient;datatype:string,name:tel_pat;datatype:string,name:n_sc_patient;datatype:string,name:sf_patient;datatype:string,name:email_patient;datatype:string,name:motpasse_patient;datatype:string,name:nass;datatype:int" />
+</info>

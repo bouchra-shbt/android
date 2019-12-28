@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_insc" value="name:id_insc;datatype:int,name:nom_insc;datatype:string,name:prenom_insc;datatype:string,name:email_insc;datatype:string,name:mdp_insc;datatype:string" />
+</info>

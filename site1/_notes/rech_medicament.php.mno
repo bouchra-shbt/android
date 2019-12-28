@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_requette" value="name:n_med;datatype:int,name:nom_med;datatype:string,name:nom_c_med;datatype:string,name:dosage;datatype:string,name:pays_f_med;datatype:string,name:generique;datatype:string,name:cond;datatype:string,name:frome;datatype:string,name:tarif_r;datatype:string" />
+</info>
