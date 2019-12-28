@@ -5,4 +5,3 @@
 
 
 # cabinetmedical
-this is android
