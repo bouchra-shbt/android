@@ -30,7 +30,8 @@ Ce bouton est autorisé seulement à l’administrateur, médecin, patient, qui 
 •	Patient peut voir leur dossier
 
 Après  la clique sur le bouton login  vous serez dirigés vers le bon accueil 
- 	Les trois accueils :
+Les trois accueils :
+  
 	Patient : il est réservé pour les patients afin de consulter ses dossiers, comme  fiche visite, certificat, ordonnance, RDV, contact.
 
         Compte patient:
